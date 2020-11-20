@@ -1,2 +1,2 @@
 # Project-Anna-Bella
-Web Project using just HTML.
+Web Project using HTML and CSS.
